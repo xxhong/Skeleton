@@ -1,10 +1,11 @@
 package com.ethanhua.skeleton.sample.adapter;
 
-import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
 import com.ethanhua.skeleton.sample.R;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * Created by ethanhua on 2017/7/29.

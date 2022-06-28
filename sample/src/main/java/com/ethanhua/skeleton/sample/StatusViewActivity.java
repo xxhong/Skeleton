@@ -1,11 +1,12 @@
 package com.ethanhua.skeleton.sample;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
 import com.ethanhua.skeleton.ViewReplacer;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class StatusViewActivity extends AppCompatActivity {
     private ViewReplacer mViewReplacer;
